@@ -1,6 +1,6 @@
 ﻿const Discord = require('discord.js');
 const client = new Discord.Client();
-console.log("Scrpit By Dream");
+console.log("Scrpit By Dream doooone");
 
 
 client.on("ready", () => {
