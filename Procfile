@@ -1,1 +1,1 @@
-worker: node Dream1.js
+worker: node Dream2.js
